@@ -1,14 +1,14 @@
-### Hola, soy Iker 👋 
+### Hola, soy Iker 👋
 
-Desarrollador Web Full Stack y apasionado por la automatización, el software robusto y la mecatrónica. Me encanta construir soluciones eficientes desde el código hasta la infraestructura.
+Estudiante de desarrollo de software en **42 Urduliz** y perfil técnico con sólida base en automatización industrial. Actualmente me enfoco en diseñar y desplegar aplicaciones web y herramientas a medida combinando tecnologías modernas con desarrollo asistido por IA.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Stack Tecnológico
 
-* **Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS, Vite
-* **Backend & Bases de Datos:** Node.js, Python, Supabase, REST APIs
-* **Sistemas & Automatización:** C/C++, Siemens PLCs (TIA Portal), Git, Docker, Linux
+* **Desarrollo Web & Cloud:** Next.js, React, TypeScript, Tailwind CSS, Vercel, Supabase
+* **Automatización & IA:** Uso avanzado de flujos de IA para desarrollo rápido, integración de APIs y automatización de procesos
+* **Sistemas & Bases:** C/C++, Git, Linux, PLCs industriales
 
 ---
 
