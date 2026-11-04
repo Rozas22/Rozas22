@@ -4,7 +4,7 @@
 
 ### Hola, soy Iker 👋
 
-Estudiante de desarrollo de software en **42 Urduliz** y perfil técnico con sólida base en automatización industrial[cite: 1]. Me enfoco en diseñar y desplegar aplicaciones web y herramientas a medida combinando tecnologías modernas con desarrollo asistido por IA.
+Estudiante de desarrollo de software en **42 Urduliz** y perfil técnico con sólida base en automatización industrial. Me enfoco en diseñar y desplegar aplicaciones web y herramientas a medida combinando tecnologías modernas con desarrollo asistido por IA.
 
 ---
 
@@ -18,9 +18,9 @@ Estudiante de desarrollo de software en **42 Urduliz** y perfil técnico con só
 
 ### 💻 ¿En qué ando metido?
 
-* 💻 Cursando proyectos de software y algoritmia en **42 Urduliz**[cite: 1].
-* 🚀 Creando aplicaciones web y herramientas funcionales con **Next.js, Supabase y Vercel** apoyándome en flujos de IA[cite: 1].
-* ⚙️ Aportando experiencia técnica previa en **automatización industrial y PLC**[cite: 1].
+* 💻 Cursando proyectos de software y algoritmia en **42 Urduliz**.
+* 🚀 Creando aplicaciones web y herramientas funcionales con **Next.js, Supabase y Vercel** apoyándome en flujos de IA.
+* ⚙️ Aportando experiencia técnica previa en **automatización industrial y PLC**.
 
 ---
 
