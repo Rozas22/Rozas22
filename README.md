@@ -13,6 +13,5 @@ Estudiante de desarrollo de software en **42 Urduliz** y perfil técnico con só
 ---
 
 ### 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rozas22&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Rozas22&show_icons=true&theme=tokyonight&hide_border=true)
