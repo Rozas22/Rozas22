@@ -1,17 +1,31 @@
 ### Hola, soy Iker 👋
 
-Estudiante de desarrollo de software en **42 Urduliz** y perfil técnico con sólida base en automatización industrial. Actualmente me enfoco en diseñar y desplegar aplicaciones web y herramientas a medida combinando tecnologías modernas con desarrollo asistido por IA.
+Estudiante de desarrollo de software en **42 Urduliz** y perfil técnico con sólida base en automatización industrial[cite: 1]. Me enfoco en diseñar y desplegar aplicaciones web y herramientas a medida combinando tecnologías modernas con desarrollo asistido por IA.
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Tecnologías y Herramientas
 
-* **Desarrollo Web & Cloud:** Next.js, React, TypeScript, Tailwind CSS, Vercel, Supabase
-* **Automatización & IA:** Uso avanzado de flujos de IA para desarrollo rápido, integración de APIs y automatización de procesos
-* **Sistemas & Bases:** C/C++, Git, Linux, PLCs industriales
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,supabase,verc,c,cpp,git,linux" alt="Tech Stack" />
+</p>
+
+---
+
+### 💻 ¿En qué ando metido?
+
+- 💻 Cursando proyectos de software y algoritmia en **42 Urduliz**[cite: 1].
+- 🚀 Creando aplicaciones web y herramientas funcionales con **Next.js, Supabase y Vercel** apoyándome en flujos de IA[cite: 1].
+- ⚙️ Aportando experiencia técnica previa en **automatización industrial y PLC**[cite: 1].
 
 ---
 
 ### 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Rozas22&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rozas22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rozas22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
