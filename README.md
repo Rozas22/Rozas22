@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hola, soy Iker 👋 
 
-<!--
-**Rozas22/Rozas22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Web Full Stack y apasionado por la automatización, el software robusto y la mecatrónica. Me encanta construir soluciones eficientes desde el código hasta la infraestructura.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+
+* **Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS, Vite
+* **Backend & Bases de Datos:** Node.js, Python, Supabase, REST APIs
+* **Sistemas & Automatización:** C/C++, Siemens PLCs (TIA Portal), Git, Docker, Linux
+
+---
+
+### 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rozas22&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
